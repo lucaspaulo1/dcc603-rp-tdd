@@ -1,6 +1,6 @@
 # Aula Prática de TDD
 
-**Prof. Marco Tulio Valente**
+**Baseado na atividade do Prof. Marco Tulio Valente**
 
 Objetivo: reproduzir uma sessão de desenvolvimento de software usando TDD (Test-Driven Development).
 
@@ -10,19 +10,14 @@ Faça o exercício com o modelo mental de TDD. Ou seja, para tirar proveito do e
 
 Se necessário, estude antes o material visto em sala de aula. Caso tenha dúvidas, você pode consultar também o nosso [livro](https://engsoftmoderna.info), que explica os passos com mais detalhes.
 
-O exemplo está em Java, mas a sintaxe é familiar mesmo para aqueles que nunca programaram na linguagem. Infelizmente, não é possível fazer em uma outra linguagem, pois a correção será automática. Você pode usar uma IDE Java (Eclipse, NetBeans, IntelliJ) ou então uma IDE online (como repl.it). Além disso, a próxima aula prática também será em Java.
-
 Instruções:
 
-* Primeiro, crie um repositório no GitHub.
-
-* Vá seguindo o roteiro, passo a passo. Para facilitar, os passos são itemizadaos da seguinte forma: (1): Vermelho, (2): Verde, (3): Refactor. Isto é, exatamente os mesmos estados de desenvolvimento baseado em TDD.
-
+* Faça o fork deste repositório.
+* Siga o roteiro, passo a passo. Para facilitar, os passos são itemizadaos da seguinte forma: (1): Vermelho, (2): Verde, (3): Refactor. Isto é, exatamente os mesmos estados de desenvolvimento baseado em TDD.
 * Após cada passo, compile e rode os testes. 
-
 * Nos passos marcados com **COMMIT & PUSH**, dê um commit e um push no seu repositório. Isso será usado no momento da correção, para garantir que seguiu a sequência do roteiro, passo-a-passo.
 
-* **Importante**: quando terminar, responda à seguinte [issue](https://github.com/mtov/AulaPraticaTDD/issues/9), informando a URL do seu repositório e seu nome (**caso contrário, seu trabalho não será corrigido**).
+* **Importante**: quando terminar, realize o pull request. **A ausência do PR implicará na não correção do trabalho!**
 
 
 # Roteiro
